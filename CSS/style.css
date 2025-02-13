@@ -1,21 +1,21 @@
 .carousel-item img{
-        height: 80vh;
-    }
-    .carousel-caption {
-        bottom: 40%;
-    }
-    .card img{
-        height: 300px;
-        width: 300px;
-        border-radius: 15px;
+    height: 80vh;
+}
+.carousel-caption {
+    bottom: 40%;
+}
+.card img{
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
 
-    }
-    .bg-halka{
-        background-color: azure;
-    }
-    .portfolio img{
-            height: 300px;
-        width: 300px;
-        border-radius: 15px;
-        border:1px solid black;
-    }
+}
+.bg-halka{
+    background-color: azure;
+}
+.portfolio img{
+        height: 300px;
+    width: 300px;
+    border-radius: 15px;
+    border:1px solid black;
+}
